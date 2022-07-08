@@ -1,0 +1,1 @@
+export const api_route = 'https://renew-buy.herokuapp.com/api';
